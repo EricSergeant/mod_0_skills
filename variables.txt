@@ -1,0 +1,9 @@
+var movie = "Casablanca";
+var isEntertaining = true;
+movie = "Seven Samurai";
+var num4 = 8;
+var num6 = 7;
+var product = num4 * num6;
+var favoriteFoods = ['tacos', 'steak', 'ramen'];
+favoriteFoods.shift();
+var characterCount = movie.length;
