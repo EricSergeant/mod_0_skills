@@ -2,13 +2,13 @@
 FlightStatusDisplay
 
 ## Attributes:
-inColor (boolean)
-listedStatus (string)
-maxFlightsDisplayed (integer)
-listedAirlines (array)
+1. inColor (boolean)
+2. listedStatus (string)
+3. maxFlightsDisplayed (integer)
+4. listedAirlines (array)
 
 ## Methods:
-colorize (sets the inColor attribute to true)
-changeStatus (updates the listedStatus attribute)
-reduceFlights (subtracks from the maxFlightsDisplayed attribute)
-updateAirlines (changes the listedAirlines attribute)
+1. colorize (sets the inColor attribute to true)
+2. changeStatus (updates the listedStatus attribute)
+3. reduceFlights (subtracks from the maxFlightsDisplayed attribute)
+4. updateAirlines (changes the listedAirlines attribute)
